@@ -8,11 +8,7 @@ public class Main {
 
     public static void main(String[] args) {
       /*
-        Este código representa un programa en Java que demuestra el uso de una 
-        jerarquía de clases para diferentes mamíferos. La clase principal "Main" 
-        contiene una lista de objetos "Mamiferos" llamada "mamiferolist". Luego,
-        crea instanciase diferentes clases de mamíferos como Cachorro, León, Oso, Gato, Caballo 
-        y Tigre, y los agrega a la lista.
+        Fsla
         */
         Cachorro mamifero1 = new Cachorro();
 
